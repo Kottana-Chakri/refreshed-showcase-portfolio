@@ -34,8 +34,9 @@ const About = () => {
               About Me
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-              I'm a passionate full-stack developer with a strong focus on creating innovative, 
-              AI-powered web applications that solve real-world problems and enhance user experiences.
+              Adaptable technologist with a passion for cross-domain innovation and continuous learning. 
+              My diverse background spanning 3D animation, web development, cybersecurity, and database design 
+              has cultivated a unique problem-solving approach that draws from multiple perspectives.
             </p>
           </div>
 
@@ -47,23 +48,23 @@ const About = () => {
               </h3>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  Adaptable technologist with a passion for cross-domain innovation and continuous learning. 
-                  My diverse background spanning 3D animation, web development, cybersecurity, and database design 
-                  has cultivated a unique problem-solving approach that draws from multiple perspectives to deliver 
-                  creative solutions.
-                </p>
-                <p>
                   While I may not claim mastery in any single field, my technical versatility across Python, 
-                  JavaScript, React.js, and cloud technologies like AWS enables me to rapidly adapt to new 
-                  challenges and collaborate effectively across different teams. Through projects like 
-                  <strong className="text-accent">KickStartX</strong> and <strong className="text-accent"> Fin-AI</strong>, 
-                  I've demonstrated my ability to build comprehensive solutions that leverage AI integration and modern architecture.
+                  C++, JavaScript, and cloud technologies like AWS enables me to rapidly adapt to new challenges 
+                  and collaborate effectively across different teams. My experience spans web technologies including 
+                  HTML5, CSS3, React.js, Tailwind, FastAPI, and Node.js, as well as databases like MySQL and MongoDB.
                 </p>
                 <p>
                   My experience with tools ranging from Blender and Canva to Burp Suite and Kali Linux reflects 
                   my curiosity-driven approach to technology. Rather than being constrained by traditional boundaries, 
                   I leverage this breadth of knowledge to identify innovative connections between disciplines that 
-                  others might miss, bringing fresh perspectives to every project.
+                  others might miss. Through projects like <strong className="text-accent">KickStartX</strong> and 
+                  <strong className="text-accent"> Fin-AI</strong>, I've demonstrated this cross-domain approach.
+                </p>
+                <p>
+                  I thrive in environments that value learning agility and fresh perspectives, where my 
+                  multi-disciplinary background becomes a catalyst for breakthrough thinking. What drives me most 
+                  is the opportunity to grow alongside emerging technologies while contributing to meaningful 
+                  projects that benefit from diverse technical insights.
                 </p>
               </div>
             </div>

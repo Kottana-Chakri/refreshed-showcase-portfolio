@@ -17,11 +17,11 @@ const Hero = () => {
             Chakri Kottana
           </h1>
           <h2 className="text-2xl md:text-3xl font-light mb-8 text-gray-200">
-            Full Stack Developer & AI Enthusiast
+            Multi-Disciplinary Technologist & Innovation Catalyst
           </h2>
           <p className="text-lg md:text-xl max-w-2xl mx-auto mb-12 text-gray-300 leading-relaxed">
-            Building innovative web applications with modern technologies. 
-            Passionate about creating seamless user experiences and leveraging AI to solve real-world problems.
+            Adaptable technologist bridging 3D animation, web development, cybersecurity, and database design. 
+            Transforming diverse perspectives into innovative solutions with enthusiasm, adaptability, and collaborative spirit.
           </p>
           
           <div className="flex flex-wrap justify-center gap-4 mb-12">

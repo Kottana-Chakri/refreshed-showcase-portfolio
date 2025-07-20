@@ -47,21 +47,23 @@ const About = () => {
               </h3>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  My journey in web development is driven by a fascination with how technology can 
-                  transform ideas into powerful, user-friendly applications. I specialize in modern 
-                  web technologies and have a particular passion for integrating AI capabilities 
-                  to create smarter, more intuitive user experiences.
+                  Adaptable technologist with a passion for cross-domain innovation and continuous learning. 
+                  My diverse background spanning 3D animation, web development, cybersecurity, and database design 
+                  has cultivated a unique problem-solving approach that draws from multiple perspectives to deliver 
+                  creative solutions.
                 </p>
                 <p>
-                  Through projects like <strong className="text-accent">KickStartX</strong> and 
-                  <strong className="text-accent"> Fin-AI</strong>, I've demonstrated my ability 
-                  to build comprehensive solutions that combine robust backend architecture with 
-                  engaging frontend experiences, always with a focus on performance and scalability.
+                  While I may not claim mastery in any single field, my technical versatility across Python, 
+                  JavaScript, React.js, and cloud technologies like AWS enables me to rapidly adapt to new 
+                  challenges and collaborate effectively across different teams. Through projects like 
+                  <strong className="text-accent">KickStartX</strong> and <strong className="text-accent"> Fin-AI</strong>, 
+                  I've demonstrated my ability to build comprehensive solutions that leverage AI integration and modern architecture.
                 </p>
                 <p>
-                  I believe in continuous learning and staying at the forefront of technology trends, 
-                  particularly in areas like Progressive Web Apps, AI integration, and modern 
-                  development practices that prioritize both developer experience and end-user satisfaction.
+                  My experience with tools ranging from Blender and Canva to Burp Suite and Kali Linux reflects 
+                  my curiosity-driven approach to technology. Rather than being constrained by traditional boundaries, 
+                  I leverage this breadth of knowledge to identify innovative connections between disciplines that 
+                  others might miss, bringing fresh perspectives to every project.
                 </p>
               </div>
             </div>
